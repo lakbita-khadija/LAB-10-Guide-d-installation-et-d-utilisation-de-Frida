@@ -4,7 +4,7 @@
 
 ---
 
-## 📑 Table des matières
+##  Table des matières
 
 1. [Objectifs du lab](#objectifs)
 2. [Environnement de travail](#environnement)
@@ -20,7 +20,7 @@
 
 ---
 
-## 🎯 Objectifs du lab <a name="objectifs"></a>
+##  Objectifs du lab <a name="objectifs"></a>
 
 - Installer et configurer Frida (client Python + CLI) sur Windows
 - Déployer et lancer `frida-server` sur un émulateur Android
@@ -30,7 +30,7 @@
 
 ---
 
-## 💻 Environnement de travail <a name="environnement"></a>
+##  Environnement de travail <a name="environnement"></a>
 
 | Composant | Valeur |
 |-----------|--------|
@@ -456,7 +456,7 @@ Java.perform(function () {
 <img width="878" height="309" alt="Capture d&#39;écran 2026-04-30 230440" src="https://github.com/user-attachments/assets/b4fac955-748f-4846-9183-b8719502b470" />
 
 
-## ✅ Conclusion <a name="conclusion"></a>
+##  Conclusion <a name="conclusion"></a>
 
 Ce lab a permis de mettre en place un environnement complet d'analyse dynamique avec Frida sur Android. Les compétences acquises sont les suivantes :
 
@@ -475,5 +475,3 @@ Ces techniques constituent une base solide pour l'analyse de sécurité des appl
 
 ---
 
-*Lab réalisé dans le cadre du cours Sécurité des applications mobiles — MLIAEdu*  
-*Encadrante : Mme Oumaima AIT SAID*
